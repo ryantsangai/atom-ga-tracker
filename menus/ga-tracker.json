@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle ga-tracker",
+        "command": "ga-tracker:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "ga-tracker",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "ga-tracker:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
