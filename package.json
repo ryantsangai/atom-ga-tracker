@@ -3,16 +3,14 @@
   "main": "./lib/ga-tracker",
   "version": "0.0.0",
   "description": "A short description of your package",
-  "keywords": [
-  ],
-  "activationCommands": {
-    "atom-workspace": "ga-tracker:toggle"
-  },
+  "keywords": [],
   "repository": "https://github.com/atom/ga-tracker",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
+    "axios": "^0.16.2",
+    "lodash": "^4.17.4"
   }
 }
