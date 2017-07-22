@@ -1,9 +1,9 @@
 {
   "name": "ga-tracker",
   "main": "./lib/ga-tracker",
-  "version": "0.0.0",
-  "description": "A short description of your package",
-  "keywords": [],
+  "version": "0.0.1",
+  "description": "Track yourself through Google Analytics",
+  "keywords": ["google", "ga", "track", "google-analytics"],
   "repository": "https://github.com/atom/ga-tracker",
   "license": "MIT",
   "engines": {
